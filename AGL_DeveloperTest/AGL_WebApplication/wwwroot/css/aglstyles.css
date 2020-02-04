@@ -1,0 +1,15 @@
+﻿.heading {
+    margin: 10px 10px 10px 10px;
+    text-shadow: 2px 2px 4px #000000;
+    color: white;
+}
+.fieldset {
+    border: medium;
+    border-color: black;
+    background-color: lightcyan;
+    border-radius: 25px;
+    box-shadow: 10px 10px;
+}
+.margin10 {
+    margin: 10px 10px 10px 10px;
+}
